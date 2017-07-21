@@ -1,0 +1,15 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "A Chatbot built with Rasa NLU and Node.js and Socket.io",
+  "author": "Aashrey Sharma <aashrey9sharma@gmail.com>",
+  "main": "app.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "request": "^2.81.0",
+    "socket.io": "^2.0.3"
+  }
+}

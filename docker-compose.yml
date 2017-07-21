@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+
+  web:
+    build: .
+    ports:
+      - "3000:3000"
+    links:
+      - rasa
+    depends_on:
+      - rasa
+
+  rasa:
+    image: aashreys/rasa_nlu:0.9.1
+    command: start -c config_spacy.json

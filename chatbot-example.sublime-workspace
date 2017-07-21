@@ -1,0 +1,445 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"REPL",
+				"REPLY_DID_NOT_UNDERSTAND〔variable〕"
+			],
+			[
+				"rasa",
+				"rasaModelName〔variable〕"
+			],
+			[
+				"repl",
+				"replyChannel〔variable〕"
+			],
+			[
+				"resp",
+				"response〔variable〕"
+			],
+			[
+				"re",
+				"reply"
+			],
+			[
+				"RES",
+				"RESPONSE_SUCCESSFUL〔variable〕"
+			],
+			[
+				"create",
+				"createTrainRequest"
+			],
+			[
+				"RESP",
+				"RESPONSE_DID_NOT_UNDERSTAND〔variable〕"
+			],
+			[
+				"ERROR",
+				"ERROR_DID_NOT_UNDERSTAND〔variable〕"
+			],
+			[
+				"en",
+				"entity"
+			],
+			[
+				"ent",
+				"entity"
+			],
+			[
+				"reqes",
+				"requestConfig〔function〕"
+			],
+			[
+				"visi",
+				"visitor〔argument〕"
+			],
+			[
+				"num",
+				"num_visits"
+			],
+			[
+				"setNu",
+				"setNumVisits"
+			],
+			[
+				"get",
+				"getNumVisit"
+			],
+			[
+				"find",
+				"find"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"sch",
+				"visitorSchema"
+			],
+			[
+				"pageVisi",
+				"pageVisitsSchema"
+			],
+			[
+				"pageVis",
+				"pageVisitsModel"
+			],
+			[
+				"pae",
+				"pageVisitsModel"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "docker-compose.yml",
+			"settings":
+			{
+				"buffer_size": 212,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 299.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"removepac",
+				"Package Control: Remove Package"
+			],
+			[
+				"termina",
+				"Open Terminal View - Bash"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"loren",
+				"Add some Lorem Gibson"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Channel"
+			],
+			[
+				"placehol",
+				"Snippet: dl - Placeholder"
+			],
+			[
+				"JSON",
+				"Pretty JSON: Format and Sort JSON"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"cls",
+			"clear",
+			"git",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/aashreys/workspace/nodejs/chatbot-example",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/nlu",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/nlu/rasa"
+	],
+	"file_history":
+	[
+		"/Users/aashreys/workspace/nodejs/chatbot-example/Dockerfile",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/wait-for-nlu.sh",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/train-nlu.sh",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/train_chatbot.sh",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/wait-for-it.sh",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/nlu/rasa/traning-data.json",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/bot.js",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/nlu/classifier.js",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/nlu/rasa/rasa.js",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/nlu/intent.js",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/nlu/entity.js",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/package.json",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/reply.js",
+		"/Users/aashreys/workspace/nodejs/auth-example/app/api_routes.js",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/response.js",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/response_generator.js",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/.gitignore",
+		"/Users/aashreys/Downloads/Game.of.Thrones.S07E01.WEB.h264-TBS[ettv]/game.of.thrones.s07e01.web.h264-tbs[ettv].mkv",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/docker-compose.yml",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/classifier.js",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/nlu/constants.js",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/responder.js",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/app.js",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/rasa/entity.js",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/rasa/intent.js",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/rasa.js",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/rasa/rasa.js",
+		"/Users/aashreys/rasa_nlu_log-20170718-112844-1.log",
+		"/Users/aashreys/workspace/docker/playground/nodejs/hello-world/db.js",
+		"/Users/aashreys/workspace/docker/playground/nodejs/hello-world/docker-compose.yml",
+		"/Users/aashreys/workspace/docker/playground/nodejs/hello-world/package.json",
+		"/Users/aashreys/workspace/nodejs/chatbot-example/rasa-requirements.txt",
+		"/Users/aashreys/workspace/nodejs/auth-example/docker-compose.yml",
+		"/Users/aashreys/workspace/nodejs/auth-example/server.js",
+		"/Users/aashreys/workspace/nodejs/auth-example/app/routes.js",
+		"/Users/aashreys/workspace/docker_playground/nodejs/hello-world/models/visitor.js",
+		"/Users/aashreys/workspace/docker_playground/nodejs/hello-world/db.js",
+		"/Users/aashreys/workspace/docker_playground/nodejs/hello-world/app.js",
+		"/Users/aashreys/workspace/docker_playground/nodejs/hello-world/docker-compose.yml",
+		"/Users/aashreys/workspace/docker_playground/nodejs/hello-world/Dockerfile",
+		"/Users/aashreys/workspace/docker_playground/nodejs/mongo-auth/Dockerfile",
+		"/Users/aashreys/workspace/docker_playground/nodejs/hello-world/mongo-data/Dockerfile",
+		"/Users/aashreys/workspace/docker_playground/nodejs/hello-world/init/mongo-setup.js",
+		"/Users/aashreys/workspace/docker_playground/nodejs/hello-world/mongo_store/Dockerfile",
+		"/Users/aashreys/workspace/docker_playground/nodejs/hello-world/mongo-data/mongo-init.js",
+		"/Users/aashreys/workspace/docker_playground/nodejs/hello-world/mongo-data/mongo-init",
+		"/Users/aashreys/workspace/docker_playground/nodejs/hello-world/mongo_store/mongo-init",
+		"/Users/aashreys/Library/Application Support/Sublime Text 3/Packages/TerminalView/README.md",
+		"/Users/aashreys/workspace/docker_playground/nodejs/hello-world/package.json",
+		"/Users/aashreys/workspace/docker_playground/nodejs/hello-world/hello-world.sublime-project",
+		"/Users/aashreys/workspace/docker_playground/nodejs/hello-world/.dockerignore",
+		"/Users/aashreys/workspace/docker_playground/nodejs/hello-world/terminal.glue",
+		"/Users/aashreys/workspace/docker_playground/.gitignore",
+		"/Users/aashreys/workspace/docker_playground/nodejs/hello-world/.gitignore",
+		"/Users/aashreys/workspace/docker/mean/modules/articles/client/articles.client.module.js",
+		"/Users/aashreys/workspace/docker/mean/Dockerfile",
+		"/Users/aashreys/workspace/docker/mean/docker-compose-production.yml",
+		"/Users/aashreys/workspace/mean/docker-compose.yml",
+		"/Users/aashreys/workspace/mean/config/lib/app.js",
+		"/Users/aashreys/workspace/mean/server.js",
+		"/Users/aashreys/workspace/mean/public/index.html",
+		"/Users/aashreys/.ssh/config",
+		"/Users/aashreys/workspace/android/sublime-stills/artifacts.gradle",
+		"/Users/aashreys/.ssh/id_aashreys.pub",
+		"/Users/aashreys/workspace/android/Bootcamp/.gitignore",
+		"/Users/aashreys/workspace/android/Bootcamp/app/src/main/assets/event_schedule.json"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"db.js",
+			"createSchemaAndModels",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"response",
+			"createResponse",
+			"');\n",
+			");\n",
+			"done",
+			"username",
+			"err",
+			"num_visits",
+			"func",
+			"this",
+			"PageVisi",
+			"onMongoConnected",
+			"PageVisits",
+			"mongodata_vol",
+			"tabSize"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"createReply",
+			"USERNAME",
+			"visits",
+			"createSchemaAndModels",
+			"PageVisitModel",
+			"db_data"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "docker-compose.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "chatbot-example.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/workspace/docker-mongo-auth/mongo-auth.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 107.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
